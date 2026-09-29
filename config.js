@@ -1,2 +1,2 @@
 // Public Google Sheet published as CSV.
-window.CURRICULUM_API_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTs8pPbat01dfw8GftXUbrTU2uMgNzrC45GNiRnCyUM5AYo6cTKmVF3EfiWnyoDFZdfxd4jYjywIBJI/pub?output=csv";
+window.CURRICULUM_API_URL = "https://script.google.com/macros/s/AKfycbxzG3Smp23GjCjIS6DcacA8PvYLPo92HY6KGBOUJXrT5KWdpKJhnNtXkNBnBZpOGx1o-Q/exec";
